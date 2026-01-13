@@ -6,6 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "a2a-sdk>=0.3.22",
+    "bs4>=0.0.2",
+    "langchain>=1.2.3",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
     "langchain-ollama>=1.0.1",
     "langgraph>=1.0.6",
     "pydantic>=2.12.5",
